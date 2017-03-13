@@ -6,7 +6,7 @@ This code implements a basic, Twitter-aware tokenizer. Originally developed by [
 ### Usage
 
 ```python
-from happierfuntokenizing import Tokenizer
+from happierfuntokenizing.happierfuntokenizing import Tokenizer
 
 tokenizer = Tokenizer()
 
