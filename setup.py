@@ -22,10 +22,7 @@ CLASSIFIERS = [
   'Programming Language :: Python :: 2.7',
   'Topic :: Scientific/Engineering',
 ]
-VERSION = '1.0.3'
-INSTALL_REQUIRES = [
-  'htmlentitydefs', 
-]
+VERSION = '1.0.5'
 
 if __name__ == "__main__":
 
@@ -38,5 +35,4 @@ if __name__ == "__main__":
       url=URL,
       download_url=DOWNLOAD_URL,
       classifiers=CLASSIFIERS,
-      install_requires=INSTALL_REQUIRES,
   )
