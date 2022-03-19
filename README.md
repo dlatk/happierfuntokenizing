@@ -1,5 +1,13 @@
 # Happier Fun Tokenizer
 
+Translated the original py2 code to py3 code with `2to3`
+
+```
+2to3 -w .
+```
+
+---
+
 This code implements a basic, Twitter-aware tokenizer. Originally developed by [Christopher Potts](http://web.stanford.edu/~cgpotts/) 
 ([Happy Fun Tokenizer](http://sentiment.christopherpotts.net/code-data/happyfuntokenizing.py)) and updated by [H. Andrew Schwartz](http://www3.cs.stonybrook.edu/~has/). Shared with Christopher's permission.
 
